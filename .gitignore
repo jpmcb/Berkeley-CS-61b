@@ -1,3 +1,5 @@
 # Macbook stuff
 .DS_Store
 
+#ignore the .class Java files
+*.class
